@@ -1,0 +1,10 @@
+$HOME/downloads
+$HOME/tmp
+$HOME/zphisher/output
+$HOME/logs
+$HOME/report_*
+$HOME/output_*
+$HOME/*.log
+$HOME/*.gz
+$HOME/track_*
+$HOME/telegram_*
