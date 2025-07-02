@@ -1,0 +1,7 @@
+$HOME/core
+$HOME/ops
+$HOME/tools
+$HOME/.termux
+$HOME/.ssh
+$HOME/auth
+$HOME/.bashrc
